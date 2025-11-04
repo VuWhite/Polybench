@@ -1,0 +1,25 @@
+# Rust
+/target/
+**/*.rs.bk
+
+# C++
+**/*.o
+**/*.so
+**/*.dylib
+**/*.dll
+**/*.exe
+cpp/build/
+
+# Go
+**/go/bin/
+**/go/pkg/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
